@@ -1,7 +1,7 @@
 1. create Hosts  (maks.loc)
 2. create .env  (mysqle) 
-3. php artisan key:generate
-4. composer install 
+3. composer install
+4. php artisan key:generate 
 5. sudo chmod -R 777 storage/ 
 6. php artisan migrate --seed
 
